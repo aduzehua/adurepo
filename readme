@@ -2,4 +2,5 @@
 void main()
 {
 	printf("welcome to china .");
+	printf("welcome to china .");
 }
