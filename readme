@@ -1,6 +1,5 @@
 #include<stdio.h>
 void main()
 {
-	printf("welcome to china .");
-	printf("welcome to china .");
+	printf("welcome to china . test diff . test reset .");
 }
