@@ -2,4 +2,5 @@
 void main()
 {
 	printf("welcome to china . test diff . test reset .");
+	printf("welcome to china .");
 }
