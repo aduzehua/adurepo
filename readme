@@ -8,3 +8,4 @@ doc：解释问题，如c语言编码规范.doc，接口文档等
 	[2]研发人员fork bubinet到自己仓库，如ado cubinet,git checkout dev0.0.1
 	[3]修改此版本内容
 	[4]提交，pull自己的修改到源仓库dev0.0.1，出现冲突，立马调整
+分支管理：按版本号命名分支
