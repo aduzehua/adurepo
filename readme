@@ -1,6 +1,5 @@
-#include<stdio.h>
-void main()
-{
-	printf("welcome to china . test diff . test reset .");
-	printf("welcome to china .");
-}
+#测试提交
+#1234
+代码1
+#代码2
+代码3
